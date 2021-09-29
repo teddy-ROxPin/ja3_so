@@ -1,0 +1,6 @@
+6734f37431670b3ab4292b8f60f29984:trickbot
+4d7a28d6f2263ed61de88ca66eb011e3:emotet or iced
+e7d705a3286e19ea42f587b344ee6865:tor
+72a589da586844d7f0818ce684948eea:metasploit or cobalt strike
+a0e9f5d64349fb13191bc781f81f42e1:metasploit or cobalt strike
+db42e3017c8b6d160751ef3a04f695e7:empire
